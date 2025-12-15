@@ -109,7 +109,7 @@ Student Model ← Pseudo-Labels
 
 ### **Sample Prediction**
 
-![Prediction Example](prediction_example.png)
+![Prediction Example](Prediction_IMG.jpg)
 *Example of model prediction on SylFishBD test images*
 
 ### **Key Findings**
